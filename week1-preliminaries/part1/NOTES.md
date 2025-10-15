@@ -1,4 +1,4 @@
-<!-- Nice job finding this! This is a comment. Putting text inside the <!-- and --> tells Markdown to ignore it -->
+<!-- Nice job finding this! This is a comment. Putting text inside the \<!-- and --> tells Markdown to ignore it -->
 # Part 1: Learn Markdown!
 
 ## linebreaks
