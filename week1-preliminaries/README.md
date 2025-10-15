@@ -15,4 +15,4 @@ This lesson has 3 parts, and by the end of the week you will have coded in two n
 <br><br><b>Important: </b> If you need help from Mr. Burke, please write your name at the bottom of the list on the board. After you are called for help, erase your name from the top of the list. Computer Scientists would call this a <b>first-in-first-out (FIFO) queue</b>. You can also ask students for help and work in partners.
 
 ## Instructions: 
-For each part (1-4) above, all of the files you need are in the folders <code>part1</code>, <code>part2</code>, <code>part3</code> and <code>part4</code>. 
+For each part (1-4) above, all of the files you need are in the folders <code>part1</code>, <code>part2</code>, <code>part3</code> and <code>part4</code>. Inside each folder, there is document called <code>NOTES.md</code> where you can put your notes and answers!
