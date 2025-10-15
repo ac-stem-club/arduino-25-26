@@ -24,7 +24,7 @@ Chicken, chocolate, broccoli, french fries, spinach, bagels and cream cheese, ra
 <!-- Edit the Markdown code above! -->
 
 ## code
-You can wrap text in the `<code>` and `</code>` tags to make it look like code. This is helpful when describing things that you should type or look at in your code! <br><br> Try it below! Write your name and superhero name in a code block!!
+You can wrap text in the `<code>` and `</code>` tags to make it look like <code>code</code>. This is helpful when describing things that you should type or look at in your code! <br><br> Try it below! Write your name and superhero name in a code block!!
 <!-- Edit the Markdown code below! -->
 My name is [NAME HERE], and my superhero name is [SUPERHERO NAME HERE]
 <!-- Edit the Markdown code above! -->
