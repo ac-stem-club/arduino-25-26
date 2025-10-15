@@ -1,4 +1,4 @@
-<!-- Nice job finding this! This is a comment. Putting text inside the <\!-- and --> tells Markdown to ignore it -->
+<!-- Nice job finding this! This is a comment. Putting text inside the symbols on the left and right tells Markdown to ignore it and not display it. Seems like a good place to hide a flag in part 3! -->
 # Part 1: Learn Markdown!
 
 ## linebreaks
