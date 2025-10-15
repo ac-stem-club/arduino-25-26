@@ -11,4 +11,8 @@ Dear Mr. Burke, Markdown is so easy and I am so good at it. From, [YOUR NAME HER
 <!-- Edit the Markdown code above! -->
 
 ## bold and italic
-You can make any bit of text <b>bold</b> by wrapping it in the `<b>` and `</b>` tags. For example, if we write <code>hello</code>, then it won't be bold, but <code>`<b>`hello`</b>`</code> will be!
+<!-- you might want to take the document out of edit mode before you read the next bit -->
+You can make any bit of text <b>bold</b> by wrapping it in the `<b>` and `</b>` tags. This even works for multiple words at once! For example, if we write <code>six seven</code>, then it won't be bold, but <code>`<b>`six seven`</b>`</code> will be!
+<br><br>
+<!-- you might want to take the document out of edit mode before you read the next bit -->
+Italics work the same way, but instead of wrapping the text in `<b>` and `</b>` we will use the `<i>` and `</i>` tags! So if we write <code>six seven</code>, then it won't be bold, but <code>`<i>`six seven`</i>`</code> will be
