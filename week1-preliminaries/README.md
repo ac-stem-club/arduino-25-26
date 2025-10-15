@@ -4,7 +4,7 @@
 This week, we will learn the basics of how to use our Arduino boards, write and document code. 
 
 <br><br>
-This lesson has 3 parts, and by the end of the week you will have coded in two new languages! The first project to learn the basics is broken down as follows:
+This lesson has 3 parts, and by the end of the week you will have coded in three new languages: Markdown, C++, and Bash! The first project to learn the basics is broken down as follows:
 <ol>
   <li>Learn how to use Markdown to write professional-looking code documents!</li>
   <li>Learn how C++ code works! This will help us prevent common errors so we can jump into coding with success!</li>
