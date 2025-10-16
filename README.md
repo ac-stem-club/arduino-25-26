@@ -1,5 +1,12 @@
 # Welcome to STEM Club 2025-2026!!!
 
+## General Info
+We meet at the following times:<ul>
+<li><b>Girls</b>: Monday and Wednesday 4:00-5:00 pm</li>
+<li><b>Boys:</b> Tuesday and Thursday 4:00-5:00 pm</li>
+</ul>
+We will be completing some of the projects in the [Arduino Starter Kit Book]<https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf?srsltid=AfmBOooP6QULIBW6AtcH75lCg9XHwDWHAwAWwKWO1ZQsvDMvkpbHm_Gu>
+
 ## How to Use Our GitHub Classroom Page
 GitHub is basically just Google Drive but for coding. We will use it to: <ul>
 <li>Store and access project materials. Each of the folders in this <b>Repository</b> (big folder of code and files) are labeled <code>project1-...</code>, <code>project2-...</code>, <code>project3-...</code>, and so on. Everything you'll need is inside of them.</li>
