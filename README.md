@@ -8,7 +8,7 @@ We meet at the following times:<ul>
 We will be completing some of the projects in the <a href="https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf?srsltid=AfmBOooP6QULIBW6AtcH75lCg9XHwDWHAwAWwKWO1ZQsvDMvkpbHm_Gu">
   Arduino Starter Kit Book
 </a> <br><br>
-Parents can contact me through my email: <b><mailto:aburke@ariecrown.org></b>
+Parents can contact me through my email: <mailto:aburke@ariecrown.org>
 
 
 
