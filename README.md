@@ -1,7 +1,7 @@
 # Welcome to STEM Club 2025-2026!!!
 
 ## General Info
-We meet at the following times:<ul>
+We meet in Room 253 (STEM lab) at the following times:<ul>
 <li><b>Girls</b>: Monday and Wednesday 4:00-5:00 pm</li>
 <li><b>Boys:</b> Tuesday and Thursday 4:00-5:00 pm</li>
 </ul>
