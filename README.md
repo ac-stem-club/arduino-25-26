@@ -24,4 +24,4 @@ GitHub is basically just Google Drive but for coding. We will use it to: <ul>
 ## Markdown
 What is this page? It is called a <b>README</b> file, and is written in a simple language called <b>Markdown</b>.
 <br><br>
-You can make a Markdown file anywhere inside of GitHub and once you click <b>Commit changes...</b> to upload the file, GitHub will <b>render</b> your Markdown code into a fancy document!!
+You can create a Markdown file anywhere in GitHub by making its filename end in <code>.md</code> (for example, <code>my_file.md</code>). Once you click <b>Commit changes...</b> to upload the file, GitHub will <b>render</b> your Markdown code into a fancy document!! Try clicking the button labeled <code>Raw</code> at the top of this box to see what the code looks like! It's very simple to learn.
