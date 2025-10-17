@@ -6,6 +6,7 @@ This week, we will be focused on learning how electricity and circuits work. The
   <li>Electrical potential energy</li>
   <li>How to <b>NOT</b> short a circuit and other safety tips</li>
   <li>Polarity</li>
+  <li>Direct and Alternating Current types</li>
   <li>Schematic diagrams</li>
   <li>Voltage and volts</li>
   <li>Current and amps</li>
