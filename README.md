@@ -16,7 +16,7 @@ Parents: feel free to <a href="mailto:aburke@ariecrown.org">email me</a>
 
 ## How to Use Our GitHub Classroom Page
 GitHub is basically just Google Drive but for coding. We will use it to: <ul>
-<li>Store and access project materials. Each of the folders in this <b>Repository</b> (big folder of code and files) are labeled <code>week-1-...</code>, <code>week-2-...</code>, <code>week-3-...</code>, and so on. Everything you'll need is inside of them.</li>
+<li>Store and access project materials. Each of the folders in this <b>Repository</b> (big folder of code and files) are labeled <code>week1-...</code>, <code>week2-...</code>, <code>week3-...</code>, and so on. Everything you'll need is inside of them.</li>
 <li>Collaborate on code with your partner(s) and Mr. Burke. You can access and work on your code from any computer by logging into our class webpage at <https://classroom.github.com/classrooms/238337690-ac-stem-club-classroom> using your Arie Crown student email.</li>
 <li>Editing code online! GitHub will even highlight key words in your code. <b>Note:</b> you cannot run your code on GitHub, so you will need to copy or <b>pull</b> it to the Arduino code editor.</li>
 </ul>
