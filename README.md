@@ -20,6 +20,7 @@ GitHub is basically just Google Drive but for coding. We will use it to: <ul>
 <li>Collaborate on code with your partner(s) and Mr. Burke. You can access and work on your code from any computer by logging into our class webpage at <https://classroom.github.com/classrooms/238337690-ac-stem-club-classroom> using your Arie Crown student email.</li>
 <li>Editing code online! GitHub will even highlight key words in your code. <b>Note:</b> you cannot run your code on GitHub, so you will need to copy or <b>pull</b> it to the Arduino code editor.</li>
 </ul>
+This page is especially useful for if you miss a class or you want to show other people what you're learning. In general, all materials for each week will be listed in the folders contained in this repository.
   
 ## Markdown
 What is this page? It is called a <b>README</b> file, and is written in a simple language called <b>Markdown</b>.
