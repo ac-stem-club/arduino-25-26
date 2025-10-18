@@ -1,5 +1,6 @@
 # Week 1
-
+<b>Slides: <a href="https://docs.google.com/presentation/d/1O4AUyKDDjHo9lzIaYJkHVQ-oyrvX0An2R9idRVZ05gw/edit?usp=sharing">Week 1: How Do Circuits Work?</a>
+</b>
 ## Welcome to STEM Club!
 This week, we will be focused on learning how electricity and circuits work. The big ideas to learn are:
 <ul>
@@ -14,4 +15,4 @@ This week, we will be focused on learning how electricity and circuits work. The
   <li>Series vs. Parallel circuits</li>
   <li>Ohm's Law V=I*R</li>
 </ul>
-If you want to review the content outside of class, you can follow the <a href="https://docs.google.com/presentation/d/1O4AUyKDDjHo9lzIaYJkHVQ-oyrvX0An2R9idRVZ05gw/edit?usp=sharing">slides here</a>
+<a href="https://docs.google.com/presentation/d/1O4AUyKDDjHo9lzIaYJkHVQ-oyrvX0An2R9idRVZ05gw/edit?usp=sharing">slides here</a>
