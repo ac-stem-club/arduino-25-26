@@ -15,10 +15,11 @@ Parents: feel free to <a href="mailto:aburke@ariecrown.org">email me</a>
 
 
 ## How to Use Our GitHub Classroom Page
-These lessons are open-source and developed by yours truly. Please feel free to follow along on your own at home, even if you're not in STEM Club! You will need:
+These lessons are open-source and developed by yours truly. Each of the folders in this repository are labeled with the project and week we will be completing it (for example, <code>week2-mission-control</code>) Please feel free to follow along on your own at home, even if you're not in STEM Club! You will need:
 <br><br>
 <ul><li><a href="amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=sr_1_1?crid=1NEUO52FCWUA7&dib=eyJ2IjoiMSJ9.mZ64xWPEYV5jxuInUAX0ri5lHi0YqZR9lOaIhkzAoPe22bKnUkk4jeEMuV5eQm6FB61YzAgDSI6qGOl2t12qECr9FxRQ1j7YOd4IPlaQ7ywN5WFsCApblq3A3Di_gVx2cdROKxZroM3dDkqnMW-zM72cXibCzBrzFagwm6uzmtpwppZN5et4DZpYzcIpaywXvm_cw6aSmnetefflorAKcpik1wcDnsEqbVkIzznuatI.-p_Ebw_zReDy4k82WbfhnHCnSdbjswQhpr1v_pY7Klo&dib_tag=se&keywords=elegoo+most+complete&qid=1760752078&sprefix=elegoo+most+comple%2Caps%2C316&sr=8-1">The Elegoo Most Complete Starter Kit</a></li>
 <li>Optional, but helpful: <a href="https://www.amazon.com/Arduino-Projects-Book-Scott-Fitzgerald/dp/B07G4PV9WS/ref=sr_1_9?crid=X3IB5C110QP3&dib=eyJ2IjoiMSJ9.vP-6b4F10NcFB2nF4m2WXTYJyGA_Cimv7UKzYXZ6ohpFk_cXEgua3FRsIrTp8kwWbPedqjLr6IlX6kYLCesrmxMKeNccLp7c3f4A47EAlhk0mBJIozxg81KUDpuQNMMDw1nIOSCtLkOB4tQsWzSFxuRmonGqZTJL9p-9iU1OvHwPEH06eGsbKW1TLSGqEHu3hh8BpD2mYwQgh764ASWPL_sp9CnKk6mUQvrIZIJyEN6CCQbKCOm6lmrwoYBtEGhQ9-bnuE7VHPkgoO7eH8m5j0wWz5yfuMIuGx9CgrEoA50.JVozUM2S2E_1OnS_F0FKViMCqbVq8VsSy4o7nLzxrNE&dib_tag=se&keywords=arduino+projects+book&qid=1760752392&sprefix=arduino+projects+boo%2Caps%2C264&sr=8-9"><i>Arduino Projects Book</i>, Fitzgerald and Shiloh</li></a> This is the book I am basing most of the projects on.
+
 
 ## Why GitHub?
 GitHub is basically just Google Drive but for coding. We will use it to: <ul>
@@ -27,6 +28,7 @@ GitHub is basically just Google Drive but for coding. We will use it to: <ul>
 <li>Editing code online! GitHub will even highlight key words in your code. <b>Note:</b> you cannot run your code on GitHub, so you will need to copy or <b>pull</b> it to the Arduino code editor.</li>
 </ul>
 This page is especially useful for if you miss a class or you want to show other people what you're learning. In general, all materials for each week will be listed in the folders contained in this repository.
+
   
 ## Markdown
 What is this page? It is called a <b>README</b> file, and is written in a simple language called <b>Markdown</b>.
