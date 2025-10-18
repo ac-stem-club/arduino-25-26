@@ -15,6 +15,10 @@ Parents: feel free to <a href="mailto:aburke@ariecrown.org">email me</a>
 
 
 ## How to Use Our GitHub Classroom Page
+These lessons are open-source and developed by yours truly. Please feel free to follow along on your own at home, even if you're not in STEM Club! You will need:
+<br><br><b><a href="amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=sr_1_1?crid=1NEUO52FCWUA7&dib=eyJ2IjoiMSJ9.mZ64xWPEYV5jxuInUAX0ri5lHi0YqZR9lOaIhkzAoPe22bKnUkk4jeEMuV5eQm6FB61YzAgDSI6qGOl2t12qECr9FxRQ1j7YOd4IPlaQ7ywN5WFsCApblq3A3Di_gVx2cdROKxZroM3dDkqnMW-zM72cXibCzBrzFagwm6uzmtpwppZN5et4DZpYzcIpaywXvm_cw6aSmnetefflorAKcpik1wcDnsEqbVkIzznuatI.-p_Ebw_zReDy4k82WbfhnHCnSdbjswQhpr1v_pY7Klo&dib_tag=se&keywords=elegoo+most+complete&qid=1760752078&sprefix=elegoo+most+comple%2Caps%2C316&sr=8-1">The Elegoo Most Complete Starter Kit</a></b>
+
+## Why GitHub?
 GitHub is basically just Google Drive but for coding. We will use it to: <ul>
 <li>Store and access project materials. Each of the folders in this <b>Repository</b> (big folder of code and files) are labeled <code>week1-...</code>, <code>week2-...</code>, <code>week3-...</code>, and so on. Everything you'll need is inside of them.</li>
 <li>Collaborate on code with your partner(s) and Mr. Burke. You can access and work on your code from any computer by logging into our class webpage at <https://classroom.github.com/classrooms/238337690-ac-stem-club-classroom> using your Arie Crown student email.</li>
