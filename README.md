@@ -2,8 +2,8 @@
 
 ## General Info
 We meet in Room 253 (STEM lab) at the following times:<ul>
-<li><b>Girls</b>: Monday and Wednesday 4:00-5:00 pm</li>
-<li><b>Boys:</b> Tuesday and Thursday 4:00-5:00 pm</li>
+<li><b>Girls</b>: Monday and Wednesday 4:00-4:55 pm</li>
+<li><b>Boys:</b> Tuesday and Thursday 4:00-4:55 pm</li>
 </ul>
 <br>
 Parents: <b>Please bookmark this page.</b> feel free to <a href="mailto:aburke@ariecrown.org">email me</a>
