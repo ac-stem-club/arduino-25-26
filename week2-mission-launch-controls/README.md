@@ -4,7 +4,7 @@
 The first class of the week will cover week 1 material, including the series and parallel circuits, ohm's law, and the kahoot review. This content is contained in Slides 18-22 of the slideshow linked in the week1 folder. We will begin the week 2 content on Wednesday (girls) and Thursday (boys).
 
 ## Goals for the week:
-This week's lesson will teach us how to code instructions for the ATMega motherboard on the Arduino Rev3 board! So far, we have just turned light bulbs on and off with buttons, but now we'll find ways to have greater control over them using code!<br><br>This week's major topics are:
+This week's lesson will teach us how to code instructions for the ATmega-328 motherboard on the Arduino Rev3 board! So far, we have just turned light bulbs on and off with buttons, but now we'll find ways to have greater control over them using code!<br><br>This week's major topics are:
 <ul>
   <li>Input/Output and the Arduino board's variable voltage pins</li>
   <li>How to use the Adruino Cloud IDE</li>
