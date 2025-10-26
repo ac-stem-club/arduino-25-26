@@ -1,7 +1,7 @@
 # Welcome to STEM Club 2025-2026!!!
 
 ## General Info
-We meet in Room 253 (STEM lab) at the following times:<ul>
+We meet in Mrs. Calandra's Science Classroom (256) at the following times:<ul>
 <li><b>Girls</b>: Monday and Wednesday 4:00-4:55 pm</li>
 <li><b>Boys:</b> Tuesday and Thursday 4:00-4:55 pm</li>
 </ul>
