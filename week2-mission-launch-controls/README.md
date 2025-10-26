@@ -8,7 +8,7 @@ This week's lesson will teach us how to code instructions for the ATMega motherb
 <ul>
   <li>Input/Output and the Arduino board's variable voltage pins</li>
   <li>Basic C++ syntax: how to write code that the board can understand</li>
-  <li>The <code>setup(){...}</code> and <code>loop(){...}</code> segments of a <code>.ino</code> file.</li>
+  <li>The <code>setup(){...}</code> and <code>loop(){...}</code> segments of an <code>.ino</code> file.</li>
   <li>The <code>digitalWrite(pin#, STRENGTH)</code> and <code>digitalRead(pin#, STRENGTH)</code> functions</li>
   <li>Simple blinker circuit</li>
   <li>Mission Launch Control project from the Arduino Projects Book (linked on homepage)</li>
