@@ -6,6 +6,7 @@ We meet in Mrs. Calandra's Science Classroom (256) at the following times:<ul>
 <li><b>Boys:</b> Tuesday and Thursday 4:00-4:55 pm</li>
 </ul>
 <br>
+Mrs. Calandra's classroom is directly across the atrium from the STEM lab, closer to the boys hallway.
 Parents: <b>Please bookmark this page.</b> Feel free to <a href="mailto:aburke@ariecrown.org">email me</a>
  with any questions!
 
