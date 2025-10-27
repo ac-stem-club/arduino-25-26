@@ -1,5 +1,6 @@
 # Week 2
 
+## <a href="https://docs.google.com/presentation/d/1fOrLCqeWsxV9006NUAik7Xjm0Qtg1m9XPx1hdv2TySA/edit?usp=sharing">Click here for slides</a?
 ## Note for online only students
 The first class of the week will cover week 1 material, including the series and parallel circuits, ohm's law, and the kahoot review. This content is contained in Slides 18-22 of the slideshow linked in the week1 folder. We will begin the week 2 content on Wednesday (girls) and Thursday (boys).
 
