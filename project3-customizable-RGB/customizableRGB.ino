@@ -13,9 +13,9 @@ const int bPotPin = A2;
    We could have defined these in loop(){...}, but putting them here means that the ATMega328p CPU does not have to waste time
    redefining variables each time the loop() function is executed. 
 */
-int rPot = 0; // notice that we don't use const here because we want to let these variables change
-int gPot = 0;
-int bPot = 0;
+int r = 0; // notice that we don't use const here because we want to let these variables change
+int g = 0;
+int b = 0;
 
 /* setColor is something called a Function. It is a piece of code that we intend to use over and over again.
    Instead of having to write lines 33, 34, and 35 each time we want to change the color of an LED, we can make 
@@ -55,9 +55,9 @@ void loop() {
     - So dividing by 4 will map any 10-bit value to its equivalent 8-bit value. Observe: 1024/4 = 256
     - In C++, we can do math using +, -, *, and /. To divide we use the slash!
   */
-  bPot = analogRead(bPotPin) / 4;
-  gPot = analogRead(gPotPin) / 4;
-  rPot = analogRead(rPotPin) / 4;
+  r = analogRead(rPotPin) / 4;
+  g = analogRead(gPotPin) / 4;
+  b = analogRead(bPotPin) / 4;
 
-  setColor(rPot, gPot, bPot);
+  setColor(r, g, b);
 }
