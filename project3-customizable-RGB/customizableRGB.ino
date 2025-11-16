@@ -13,7 +13,7 @@ const int bPotPin = A2;
    We could have defined these in loop(){...}, but putting them here means that the ATMega328p CPU does not have to waste time
    redefining variables each time the loop() function is executed. 
 */
-int rPot = 0;
+int rPot = 0; // notice that we don't use const here because we want to let these variables change
 int gPot = 0;
 int bPot = 0;
 
