@@ -1,13 +1,13 @@
 // the following 3 global variables represent the digital pins that the RGB LED's leads are plugged into
 // the keyword "const" tells the compiler that we are making a variable that is constant--its value should never change!
-const int redPin = 7;
-const int greenPin = 6;
-const int bluePin = 5;
+const int redPin = 10;
+const int greenPin = 9;
+const int bluePin = 8;
 
 // the following 3 global variables represent the analog pins that the potentiometers (variable resistance knobs) are plugged into
-const int rPotPin = A0;
+const int rPotPin = A2;
 const int gPotPin = A1;
-const int bPotPin = A2;
+const int bPotPin = A0;
 
 /* the following 3 global variables store the resistance value of the potentiometers.
    We could have defined these in loop(){...}, but putting them here means that the ATMega328p CPU does not have to waste time
