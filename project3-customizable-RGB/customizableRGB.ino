@@ -1,4 +1,5 @@
 // the following 3 global variables represent the digital pins that the RGB LED's leads are plugged into
+// the keyword "const" tells the compiler that we are making a variable that is constant--its value should never change!
 const int redPin = 7;
 const int greenPin = 6;
 const int bluePin = 5;
